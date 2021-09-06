@@ -13,6 +13,6 @@ public class App
         System.out.println( "Hello World!333" );
         System.out.println( "Hello World!333 这是hot-fix添加的" );
         System.out.println( "Hello World!333 这是hot-fix添加的2" );
-        System.out.println( "Hello World!333 这是master添加的3,用来检测冲突合并" );
+        System.out.println( "Hello World!333 这是hot-fix添加的3,用来测试冲突合并" );
     }
 }
